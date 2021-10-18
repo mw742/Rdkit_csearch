@@ -1,6 +1,6 @@
 # Rdkit_csearch
 
-This is a revised script got from Deepchem 
+This is a revised script got from Deepchem :https://github.com/deepchem/deepchem
 
 Input the InChI of a molecule, the program will do conforamtional searching automatically using the built-in conforamtional searching in Rdkit package.
 
